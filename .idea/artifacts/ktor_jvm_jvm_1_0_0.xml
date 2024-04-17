@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ktor-jvm-jvm-1.0.0">
+    <output-path>$PROJECT_DIR$/ktor-jvm/build/libs</output-path>
+    <root id="archive" name="ktor-jvm-jvm-1.0.0.jar">
+      <element id="module-output" name="kmp-demo.ktor-jvm.jvmMain" />
+    </root>
+  </artifact>
+</component>

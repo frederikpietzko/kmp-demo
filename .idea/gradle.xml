@@ -10,7 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/common" />
             <option value="$PROJECT_DIR$/compose-html" />
-            <option value="$PROJECT_DIR$/ktor-native" />
+            <option value="$PROJECT_DIR$/ktor-jvm" />
           </set>
         </option>
       </GradleProjectSettings>
