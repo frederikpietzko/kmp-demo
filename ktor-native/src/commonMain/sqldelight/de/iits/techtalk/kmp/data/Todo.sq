@@ -1,0 +1,22 @@
+CREATE TABLE todo (
+    id INTEGER PRIMARY KEY NOT NULL,
+    task TEXT NOT NULL,
+    done INTEGER AS kotlin.Boolean DEFAULT 0 NOT NULL
+);
+
+selectAll:
+SELECT *
+FROM todo;
+
+insert:
+INSERT INTO todo(task, done)
+VALUES (:task, 0);
+
+updateDone:
+UPDATE todo
+SET done = :done
+WHERE id = :id;
+
+delete:
+DELETE FROM todo
+WHERE id = :id;

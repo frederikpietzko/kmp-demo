@@ -1,0 +1,10 @@
+abi_version=1.8.0
+builtins_platform=JS
+compiler_version=1.9.21
+depends=org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.compose.runtime\:runtime org.jetbrains.kotlinx\:atomicfu org.jetbrains.kotlin\:kotlin-dom-api-compat kotlin
+ir_signature_versions=1,2
+jsOutputName=html-internal-html-core-runtime
+metadata_version=1.4.1
+serializedIrFileFingerprints=2v5iurw16s6vu.xcz5zk13k2bl 3tvx402ef8gu6.3anct8vpsyn6z 7xti2102um87.2gyhrkq598py8 11clwm5hi75xx.35c3bz6osxbj3 1pqu1jk466pdu.1ztowomp4x2br 1ioppi66vtj1m.iaei4wfrvj8j
+serializedKlibFingerprint=31tgfcxwli7g3.1110b6oxo6ih1
+unique_name=org.jetbrains.compose.html\:internal-html-core-runtime
